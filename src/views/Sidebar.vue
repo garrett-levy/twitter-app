@@ -135,6 +135,7 @@ button {
   margin-bottom: 5px;
   cursor: pointer;
   transition: background-color 0.3s;
+  font-size: 19px;
 }
 
 button:hover {

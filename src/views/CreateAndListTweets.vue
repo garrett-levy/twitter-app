@@ -144,7 +144,8 @@ export default {
   font-size: 20px;
   margin: 0 auto;
   display: block;
-  position: relative; /* Ensure relative positioning for the absolute child */
+  position: relative;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .character-count {
