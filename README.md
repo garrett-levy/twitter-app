@@ -24,13 +24,16 @@ To run the app locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/twitter-clone-app.git```
+   git clone https://github.com/your-username/twitter-clone-app.git
 
 2. Navigate to the project directory:
-```bash cd twitter-clone-app```
+    ```bash 
+    cd twitter-clone-app
 
 3. Install dependencies:
-```bash npm install```
+    ```bash 
+    npm install
 
 4. Run the app:
-```npm run serve```
+    ```bash 
+    npm run serve
